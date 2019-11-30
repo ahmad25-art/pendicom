@@ -1,0 +1,2 @@
+# pendicom
+mempelajari IOT
